@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Finniki
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning Javascrip frameworks
-- 💞️ I’m looking to collaborate on front end development projects
 - 📫 How to reach me mailtorufina@gmail.com
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finniki&layout=donut&theme=radical&border_color=51b748)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finniki&layout=donut&theme=radical&border_color=51b748)](https://github.com/anuraghazra/github-readme-stats) 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finniki&show_icons=true&theme=radical&border_color=51b748) <br/><br/> 
 
 
